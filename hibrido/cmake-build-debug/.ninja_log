@@ -1,0 +1,18 @@
+# ninja log v5
+5	91	6949783683371026	CMakeFiles/hibrido.dir/funcao.c.obj	aeff7261ec6995f1
+14	119	6949783683641269	CMakeFiles/hibrido.dir/main.c.obj	4f517fa9d27162e9
+1	128	6949783683731364	CMakeFiles/hibrido.dir/algoritmo.c.obj	a80c0723879ef711
+9	139	6949783683861467	CMakeFiles/hibrido.dir/utils.c.obj	a4e064951897cbec
+140	247	6949783684892413	hibrido.exe	8c570036bd561c3f
+7	113	6949787390785663	CMakeFiles/hibrido.dir/algoritmo.c.obj	a80c0723879ef711
+16	122	6949787390885754	CMakeFiles/hibrido.dir/utils.c.obj	a4e064951897cbec
+3	80	6949788076359917	CMakeFiles/hibrido.dir/funcao.c.obj	aeff7261ec6995f1
+8	98	6949788076550093	CMakeFiles/hibrido.dir/main.c.obj	4f517fa9d27162e9
+99	205	6949788077571017	hibrido.exe	8c570036bd561c3f
+5	84	6949791416683213	CMakeFiles/hibrido.dir/funcao.c.obj	aeff7261ec6995f1
+9	102	6949791416883403	CMakeFiles/hibrido.dir/utils.c.obj	a4e064951897cbec
+103	206	6949791417884307	hibrido.exe	8c570036bd561c3f
+3	99	6949791918651800	CMakeFiles/hibrido.dir/utils.c.obj	a4e064951897cbec
+99	205	6949791919682747	hibrido.exe	8c570036bd561c3f
+3	96	6950091709478468	CMakeFiles/hibrido.dir/main.c.obj	4f517fa9d27162e9
+97	206	6950091710539435	hibrido.exe	8c570036bd561c3f

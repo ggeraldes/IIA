@@ -1,0 +1,3 @@
+C:/Users/glgge/Desktop/trepa-colinas/cmake-build-debug/CMakeFiles/Nova_pasta.dir
+C:/Users/glgge/Desktop/trepa-colinas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/glgge/Desktop/trepa-colinas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
